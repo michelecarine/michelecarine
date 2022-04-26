@@ -14,7 +14,7 @@
   <img align="center" alt="Michele-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Michele-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Michele-pic" height="150" style="border-radius:50px;" 
- src="https://user-images.githubusercontent.com/102440706/165152568-5cc3c2e7-04c8-47d3-acae-289e2a4afac5.png?width=676&height=676">>
+ src="https://user-images.githubusercontent.com/102440706/165152568-5cc3c2e7-04c8-47d3-acae-289e2a4afac5.png?width=676&height=676">
 </div> 
   
  ##
